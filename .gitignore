@@ -1,6 +1,6 @@
 *node_modules/*
 *app/*.js
-*.vscode
+*.vscode/*
 
 @@ -0,0 +1,43 @@
 # Windows image file caches
